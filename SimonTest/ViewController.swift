@@ -76,6 +76,10 @@ class ViewController: UIViewController {
         initializeGame()
         
     }
+    
+    func testFunc(){
+        print("The test worked")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
